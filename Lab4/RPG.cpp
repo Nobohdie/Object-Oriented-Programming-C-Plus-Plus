@@ -62,7 +62,7 @@ void RPG::printAction(string skill, RPG opponent) {
 
 void RPG::attack(RPG * opponent){
     int newHealth = (*opponent).getHealth() - (strength - (*opponent).getDefense());
-    (*opponent).updateHealth(newHealth);
+    if(newHealth < (*opponent).getHealth()) (*opponent).updateHealth(newHealth);
 }
 
 void RPG::useSkill(RPG * entity) {

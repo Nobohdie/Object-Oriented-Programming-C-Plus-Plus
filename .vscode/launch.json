@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/tombo/OneDrive/Documents/GitHub/Object-Oriented-Programming-C-Plus-Plus/Dungeon Explorer",
-      "program": "c:/Users/tombo/OneDrive/Documents/GitHub/Object-Oriented-Programming-C-Plus-Plus/Dungeon Explorer/build/Debug/outDebug",
+      "cwd": "c:/Users/tombo/OneDrive/Documents/GitHub/Object-Oriented-Programming-C-Plus-Plus/Lab3",
+      "program": "c:/Users/tombo/OneDrive/Documents/GitHub/Object-Oriented-Programming-C-Plus-Plus/Lab3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
